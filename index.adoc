@@ -288,7 +288,7 @@ Press the "K" key on the keyboard or “South Button” on the gamepad to block 
 
 https://drive.google.com/file/d/1_LLLXL6ghVLY-IBzwn-3L_-VdK6-BWMH/view?usp=drive_link
 
-== Executables
+== Builds / Executables
 
 https://drive.google.com/drive/folders/1CUtWPREfQDfGKPDB7OkFAA2jQWRKr4C3?usp=drive_link
 
