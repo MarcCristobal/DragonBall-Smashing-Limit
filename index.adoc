@@ -1,0 +1,297 @@
+:author: Marc Cristobal
+:email: marc7cs@gmail.com // mcristobal@alumnat.copernic.cat
+:revdate: 01/06/2024
+:revnumber: la versió p.ex. 1.0
+:doctype: book
+:encoding: utf-8
+:lang: ca
+:toc: left
+:toclevels: 3
+:icons: font
+:imagesdir: ./ReadmeImages
+
+= Dragon Ball: Smashing Limit
+
+image::logo.jpg[align="center"]
+
+== Idea
+
+A 2D fighting game inspired on the classic sagas like ‘Street Fighter’, ‘The King of Fighters’, or ‘Dragon Ball Z: Super Butoden’ where the player has to beat their opponents to become the World Tournament Champion and save the Planet Earth.
+
+== Genre
+
+2D Fighting Game.
+
+== Public
+
+Suitable for all audiences.
+
+== History
+
+The game's premise is that enemies attack Earth with the aim of destroying it, but they give it a chance to survive: by hosting a global martial arts tournament to test the strength of its inhabitants. If any Earthling emerges as the champion, the planet will be saved. However, if one of the enemies wins, Earth will be destroyed.
+
+== Objective
+
+Win two out of three rounds of the set to win and advance to the next clash. Finally, win the last clash to become the world champion.
+
+== Inputs
+
+.Keyboard:
+- ‘A’: Move left
+- ‘W’: Jump
+- ‘D’: Move right
+- ‘I’: Light attack
+- ‘O’: Medium attack
+- ‘L’: Hard attack
+- ‘K’: Guard
+
+.Gamepad:
+- ‘Left key’: Move left
+- ‘Up key’: Jump
+- ‘Right key’: Move right
+- ‘X’: Light attack
+- ‘Y’: Medium attack
+- ‘B’: Hard attack
+- ‘A’: Guard
+
+As a 2D game, characters can move left and right and jump. In the fighting system, each character has three different attacks of varying strength.
+The fight will work with a hitbox/hurtbox system by collision treatment.
+
+== Starting conditions
+
+Each game/clash starts with both the player and the AI enemy at full health and 60 seconds timer each round.
+
+== End of game conditions
+
+=== Win conditions
+
+To win 3 games/clashes. After 3 clash victories, the player became the World Champion.
+
+=== Lose conditions
+
+To lose a game/clash. Players can reset the game.
+
+== Layout and HUD
+
+image::GameScene.png[align="center"]
+
+The main layout of the game consists of an arena where the player and the enemy are situated. On the top side of the screen, the HUD is located, including both health bars (3), the timer (4), and the round markers (6).
+
+Characters
+
+The game will feature 4 characters:
+
+- Son Goku Super Saiyan Blue
+
+image::goku1.jpg[align="center"]
+
+The main character of the story predestined to defend Earth.
+
+- Teen Son Gohan Super Saiyan
+
+image::gohan1.jpg[align="center"]
+
+Goku’s son who help him on the defense.
+
+- Frieza
+
+image::frieza1.jpg[align="center"]
+
+An alien and one of the enemies.
+
+- Cell
+
+image::cell1.jpg[align="center"]
+
+An android and the other enemy.
+
+All the characters will be selectable and the other three will become their opponents as NPC’s / AI Enemies.
+
+The animations the characters will have are:
+
+- Idle
+- Walk
+- Jump
+- Light attack
+- Medium attack
+- Hard attack
+- Die
+- Win
+
+== Difficulty system
+
+The player has one single live, if one game/clash is lost, the player has the chance to restart the game. To win, the player will have to win 3 games/clashes.
+
+There are 3 difficulty levels, depending on the amount of health they have and/or the frequency of their attacks, as represented below:
+
+|===
+|| Enemy Health | Enemy Attack Frequency
+
+| Easy | x | x
+| Normal | 1.5x | 1.5x
+| Difficult | 2 | 2
+|===
+
+The difficulty of the enemies will increase as the player wins games.
+
+== Other scenes
+
+=== Splash Screen
+
+image::SplashScene.png[align="center"]
+
+=== Main Menu
+
+image::Menu.png[align="center"]
+
+=== Character Select
+
+image::CharSelect.png[align="center"]
+
+=== Settings
+
+image::Settings.png[align="center"]
+
+=== Pause
+
+image::Pause.png[align="center"]
+
+=== Win
+
+image::Win.png[align="center"]
+
+=== Lose
+
+image::Lose.png[align="center"]
+
+== Extra Requirement
+
+The game will have NPC’s (enemies) that will follow the player and attack him when the are in their attack range, configured by AI.
+
+== Art and Design
+
+=== Arena
+
+The arena asset will be the following one:
+
+image::Stage.png[align="center"]
+
+=== Use of assets
+
+All the arena and character assets are extracted from https://www.spriters-resource.com/, coming from the Nintendo 3DS game ‘Dragon Ball Z: Extreme Butoden’.
+
+Since the use is non-commercial, in this case for an academic project, it’s a fair use as specified in its ‘User Agreement’ in the ‘Use of Content’ section:
+
+_“Content on these sites may not be used in any commercial works. These include, but are not limited to, paid games, free games with in-app purchases or advertisements, monetized videos, and other websites displaying advertisements. This also includes anything 100% free being published to an established market place (e.g. Steam, Apple's App Store, or Google Play). Custom work may be used in non-commercial projects as long as the artist is credited, provided there is nothing included with the submission that would prohibit its use, and in commercial works with the artist's permission and proper credit, provided that the subject matter of the custom work is not copyrighted to another entity (e.g. a custom Mario sprite may still have copyright requirements enforced by Nintendo). Some custom submissions may display "no credit required" or similar but many were created long before the potential for videos seen by millions was known so we ask that you credit them regardless.”_
+
+== Sound and Music
+
+The game will have anime music as a background music and the following sound associated with specific actions:
+
+- Hit
+
+You can found the music and sounds used in the link below:
+
+https://downloads.khinsider.com/game-soundtracks/album/dragon-ball-z-extreme-butoden/06.%2520Cell%2520Games.mp3
+
+https://www.sounds-resource.com/3ds/dragonballzextremebutoden/sound/48266/?source=genre
+
+== Sprints Planning
+
+.First Sprint:
+
+- Main/Arena Screen
+- Characters move and animations
+
+.Second Sprint:
+
+- Fight system (Hitbox/Hurtbox)
+- Enemy AI
+- Special attacks (particle system)
+
+.Third Sprint
+- Multiplayer
+- Game screens
+- Sound and music
+
+== User Manual
+
+=== Description and Objectives of the Game
+
+Dragon Ball: Smashing Limit is an exciting fighting game where players take on the roles of powerful fighters of Dragon Ball saga facing off in intense one-on-one battles. The main objective of the game is to defeat all opponents and become the world tournament champion.
+
+=== Installation Instructions
+
+- Download the file corresponding to your operating system from the official game page.
+- Extract the contents of the downloaded file to a location of your choice.
+- Locate the executable file (.exe) in the extracted folder.
+- Run the .exe file to start the game.
+
+=== System Requirements
+
+.Minimum:
+- Operating System: Windows 10 / Linux
+- Processor: Intel Core i3-540 or AMD Phenom II X2 550
+- RAM: 4 GB
+- Graphics Card: NVIDIA GeForce GT 620, 1 GB or AMD Radeon HD 6570, 1 GB or Intel HD Graphics 530
+
+.Recommended:
+- Operating System: Windows 10 / Linux
+- Processor:  Intel Core Core i7-4790
+- RAM: 4 GB
+- Graphics Card: NVIDIA GeForce GTX 970, 4 GB
+
+=== Game Controls
+
+.Keyboard:
+- ‘A’: Move left
+- ‘W’: Jump
+- ‘D’: Move right
+- ‘I’: Light attack
+- ‘O’: Medium attack
+- ‘L’: Hard attack
+- ‘K’: Guard
+- ‘Esc’: Pause
+
+.Gamepad:
+- ‘Left key’: Move left
+- ‘Up key’: Jump
+- ‘Right key’: Move right
+- ‘X’: Light attack
+- ‘Y’: Medium attack
+- ‘B’: Hard attack
+- ‘A’: Guard
+- ‘Start’: Pause
+
+=== Special Mechanics
+
+In the game, combos can only start with a light attack followed by a heavy attack. If you try to start a combo with a heavy attack, it won't work, and you'll have to wait for your character to recover before trying again. This adds strategy to the game, as players must plan their moves to execute combos effectively and avoid vulnerability to the opponent's attacks.
+
+=== HUD
+
+The HUD provides vital information during gameplay. Some elements that may appear on the screen include:
+
+- Health Bar: Represents the player's remaining health.
+- Time Counter: Indicates the remaining time in the battle.
+
+=== Progression System
+
+The game consists of three fights. The first is easy, the second is harder, and the third is the toughest. As you progress, enemies become stronger, with increased health and attack frequency in each subsequent fight. If you win all three fights, you win the game.
+
+=== Frequently Asked Questions
+
+*How can I block my opponent's attacks?*
+
+Press the "K" key on the keyboard or “South Button” on the gamepad to block incoming attacks.
+
+== Video Demo
+
+https://drive.google.com/file/d/1_LLLXL6ghVLY-IBzwn-3L_-VdK6-BWMH/view?usp=drive_link
+
+== Executables
+
+https://drive.google.com/drive/folders/1CUtWPREfQDfGKPDB7OkFAA2jQWRKr4C3?usp=drive_link
+
+== TikTok
+
+https://www.tiktok.com/@maarccristobal/video/7375542689904741664
