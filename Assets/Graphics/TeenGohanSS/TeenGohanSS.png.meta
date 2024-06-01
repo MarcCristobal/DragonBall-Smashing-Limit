@@ -1,0 +1,6288 @@
+fileFormatVersion: 2
+guid: 0e96b4147bdf5c94cbb3dcfd35712782
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TeenGohanSS_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7015
+        width: 134
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b2a96d25597974dba129b789dcca94
+      internalID: 73518963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 7013
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff09eedeccef9948946d94a060b20b3
+      internalID: -1198476967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 7013
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb312b68a27dff4280f0f1334550226
+      internalID: 1232487946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7013
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f14ea4be3f99447af40b02a5883537
+      internalID: -362226917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_4
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 7013
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aa1fdc2cd969c478be59f51471caa7
+      internalID: 490537778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSSButton
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 7019
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea05d93246aea488ea59a06dc2cb52
+      internalID: -1981748640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6887
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8444fc6dcdcaba3418449e78bf58baf7
+      internalID: -980425894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6887
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffde773a916c3be43af6012e990494a5
+      internalID: -1645209388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 6887
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae666b54666541c43be5008de998758a
+      internalID: 323747653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6756
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c68345341105743897930c61a6f95d
+      internalID: 2089504615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle 2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6753
+        width: 53
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a100259c81e1946a25332fcdb9d0a9
+      internalID: 769639684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle 3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6753
+        width: 53
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fee9bec5c51b484aa6ccdd380ab9de7
+      internalID: -1899586817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle 4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 6753
+        width: 53
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47de9e56ed594b648b18c0037232d3f4
+      internalID: 1607153381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle 5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 6753
+        width: 52
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9d2182067613f498ff76814dfcde6d
+      internalID: -2091068286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6621
+        width: 55
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107e64dc4085454e83a58fea3cca74b
+      internalID: -916270967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6621
+        width: 54
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa19835cc728f7439f2bf0309f4088d
+      internalID: 259338656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6621
+        width: 53
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566bd03a317c294dba61ccf9566f31a
+      internalID: -50166168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 6621
+        width: 53
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca72cbb2051f29b44b3a0b7483374e43
+      internalID: -1720726896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6494
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d4bb845a55a8742bfa47f6ce5580b0
+      internalID: 244226856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6494
+        width: 74
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be594948bf7b74d935e4c1a0ee813d
+      internalID: -459519951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 6496
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec91e14ce3a8d064eb58cc27bed43393
+      internalID: 174559221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 6495
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363c5327479cb5b408155e272671789d
+      internalID: 1635698057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 6496
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e098638a732e64bb88f00a9bb3983d
+      internalID: -1274511476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 6
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 6496
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f571d583e7501a147b4fbf3f4495c01d
+      internalID: 695953954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard 1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6371
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aa2c13628f50949b8f5f988497a80f
+      internalID: -1916818076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard 2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6371
+        width: 62
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb231032afe97aa46b762ac2512045e4
+      internalID: -1779168866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard 3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 6371
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b365894463055fe409359c37a7529c46
+      internalID: 195638683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrGuard 1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6267
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ec9112652d5bb4a9ba8fdadcc7dc6c
+      internalID: -1780561198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrGuard 2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6266
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b635134804d043ba603a16bb264b5
+      internalID: -471985338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrGuard 3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 6266
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434a64e371694a5468c402c97cb32b3a
+      internalID: -1678284134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6143
+        width: 52
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d2ac12a79dda641a63fec10e9c0593
+      internalID: 1864447578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6144
+        width: 51
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da24839d2dcf94449b00da70b36ff66
+      internalID: -2053817001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6145
+        width: 57
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fde661f1f2530b4f89e2f56aed05e9b
+      internalID: -743934627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump 1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6009
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bec64b167aa5e742ba76aa3c806c447
+      internalID: 569257891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump 2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 6007
+        width: 45
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a043c73cce9194cb92ace2890e8bc1
+      internalID: 962457922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump 3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6019
+        width: 51
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbdb5c744a41554bbb3490e03e04283
+      internalID: -724308709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 6026
+        width: 56
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba582356cb20a44f9f810dd4a6bbd61
+      internalID: 633927817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 6016
+        width: 64
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ce3cabffde2849b21ce50e65148f1
+      internalID: 1799893381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6009
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98182d50d6474a241a67d73e1a12c435
+      internalID: -1594880796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 6007
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01263c2c3dd11e4aaaba49ce77490e1
+      internalID: 273186038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5893
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93067800502834141a27b63df31669eb
+      internalID: 1182607858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch 2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5891
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be14a93009fb0f4da8080067f6fb678
+      internalID: 2107397202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch 3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5891
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef114c893cc8544ab5862302a437d14
+      internalID: -1392537034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5774
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b85b9e9a9bc7644ea46076eb16fb188
+      internalID: -1029887680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5798
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a58e95c9e4a094a8bfa045e6394588
+      internalID: 1881043101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5784
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c296ac25acbdb24cb481b4cd5388f7b
+      internalID: -1926112235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5652
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1087d6d971546b4e9af61173435208f
+      internalID: -1990922038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5663
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080a979cbedf0e45b4465c4b0227e57
+      internalID: 2119349112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5648
+        width: 55
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6593f81854511c4ab9a150aa24dd1ea
+      internalID: 961398402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5536
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85c63d8f49de0d44a3aebcab0c2495f
+      internalID: 116486534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5546
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1608a296df3014459d1e03c768958b4
+      internalID: 520530982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5535
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fb7d4e55880cc46a51c952d9dd9ef4
+      internalID: 947078969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5409
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0552eb00720c3464f9868f1cceb38f33
+      internalID: -405730008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5409
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4329df5428b1db54ca07471cf351b2bc
+      internalID: -878017435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5408
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2e94b7271a30442affef65790cd64d
+      internalID: -1058110236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5410
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d0933a0217e674fa111abbb961bfeb
+      internalID: -1608434347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 5410
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868bb6678ab20b443a2ed658630d02b4
+      internalID: -416433839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 5410
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db8be56ebc4f34e96e42b7cf37d3ed
+      internalID: -312881425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L 1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 5285
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d88fe0cd2daefa4086c4e1e810be948
+      internalID: -72158352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L 2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5285
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f04f7bc730c16449522442e596457b
+      internalID: -85544047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L 3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5285
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152b9e63379a1ad40b61baa5023b4a07
+      internalID: -1925141170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L 4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5285
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36753204ac402f74f9ec7d9476ed0e18
+      internalID: -17155047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L 5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 5282
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0072253f5674124499628e5514f8cfdc
+      internalID: -993000551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M 1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5138
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c38e39910093504e90f5938c8721a50
+      internalID: 738649089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M 2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5153
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31e86c89df6a58448955ada0070eb48
+      internalID: -446786735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M 3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5183
+        width: 118
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f00b5579c5cb547923f023d72387f2
+      internalID: -1642416703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M 4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 5178
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd5e71380e1e8c4a8711b56228ccf06
+      internalID: -1620189070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M 5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 5165
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede2273ad6f78a44f8cfe6818822594e
+      internalID: 1684134440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M 6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 5142
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5b6be1c6f5e444acd3e1a97012276
+      internalID: 1165432183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H 1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5028
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc07280c34a9f2945b143047ec51cc46
+      internalID: 1646670240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H 2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5052
+        width: 184
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76447ca0e22f1843b3e2af2e2a555e8
+      internalID: 1308484205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H 3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 5050
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea1f5a103647224bbdab3fe021b754b
+      internalID: -1962269169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H 4
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 5032
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47855a86658c224fbeefdc4c97df978
+      internalID: 49698128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H 5
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 5015
+        width: 55
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4955bd9e675b3944cacc586388eb1184
+      internalID: 1586475046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrL 1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4914
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc3efbc526a1643a2385b939067781
+      internalID: 1363210664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrL 2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4914
+        width: 116
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf479af24c680947a604bb659efbf67
+      internalID: 2001679658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrL 3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4916
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d763de99bf2304482edd7d302fc8a1
+      internalID: 945358065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrM 1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4831
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9224cf9b8efe714d8ff71eefc10f874
+      internalID: -2030546860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrM 2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4824
+        width: 107
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8446724832de4464094bebc505088f52
+      internalID: -523815613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrM 3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4825
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38d8629f7b0f9e4089dacef8794f144
+      internalID: 1562491373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4711
+        width: 63
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c01ea00db68d9418c22f3ce02473aa
+      internalID: 281374320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4734
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3645fa13611c844bf26e076dc7f7a1
+      internalID: 1202950384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_83
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4731
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4f9c8853fce5543a911a85042ef860
+      internalID: 1659008364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_84
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4597
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31fc921ed69b6d4c90c994d5e5d1218
+      internalID: 20599284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_85
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4603
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96605f807e735574696fb7de6e87c863
+      internalID: -710489718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_86
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4606
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a9feed7a3ea9744bee765b5f36b8b4
+      internalID: 1856461890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_87
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4597
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dd098712c32094da4e9e49f961dd97
+      internalID: 520654300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_88
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4490
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1742bb9a668f0764ba073fd3236f3e1f
+      internalID: 739300630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4502
+        width: 126
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f074af678b1027f45a9bcecd1a86bade
+      internalID: -512546957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4504
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c4c2f0e1429a5418d91e1c9fc91314
+      internalID: 454017733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 4504
+        width: 132
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dc23f67c1ca0c459ffeda5be6686d3
+      internalID: -788864190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_92
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 4504
+        width: 128
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbab65761b198294e8f2380e886ada28
+      internalID: -494701168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_93
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4560
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ececd7b2991251e4f900fd110171639e
+      internalID: -1367290852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_94
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4402
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbb3cfa088888741ae3785c07968443
+      internalID: -1024071260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_95
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4408
+        width: 108
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d20c9a631438747a67570e9cd9a2cb
+      internalID: 510543277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_96
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 4386
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8cec5f60bb66d45abc628c013c0333
+      internalID: 2115883131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_97
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 4389
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c122bf511e6ae479b240b0fa746825
+      internalID: -1618752628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_98
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 4389
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37b26894bbb36143803a6ba5183f343
+      internalID: 309993354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_99
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 4393
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e816c533c0722643a6a7a865926bb3b
+      internalID: -1291831708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4296
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483d70dcc38115a45b628bc21a9182da
+      internalID: -722558312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_101
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4288
+        width: 124
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0b53dfc255e8c4988b5033fefe849d
+      internalID: 2134855760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_102
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4288
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ddb08f6ea65f94786cafc763962ba4
+      internalID: -537161678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4290
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ddc5fc55c948d4781b89366bd4cd1b
+      internalID: -1982082893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_104
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4175
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cf6237709ac2f4e89a41f0e495faa9
+      internalID: -331557179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_105
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4173
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d982874a7aef2da46944b79a3d504285
+      internalID: -793018813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_106
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 4169
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287481e2d99ff7c46855e7c7cce3607a
+      internalID: -790114059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_107
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 4210
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2a78bc1602fb8409eaef7d5ff8490c
+      internalID: -1137460322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_108
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4166
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f86bb3cd4af4de4dbd9ee6ad52baede
+      internalID: 855160138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_109
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 4174
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d8f546f32038d45ba6c23047e70b1f
+      internalID: -494665511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_110
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 4164
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de60ac912fc46a94e8882b51464d7056
+      internalID: 1130165913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_111
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 4159
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaba8fc1164b5024ab69275afc7f321b
+      internalID: 847113078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4037
+        width: 63
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c16dbe3c797d84c87e5bf49d91ad75
+      internalID: 2030620418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S 2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4035
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdc521861145b4458b1638d71b35b4f
+      internalID: 1729176574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S 3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4037
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac6793de2e81644b9b196fe67570f11
+      internalID: 1142253515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S 4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4037
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b286fe36ed618429ea3c0967950dd4
+      internalID: 606964246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S 5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4037
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f5fd6876381448b1c31078ad8ac57
+      internalID: 707864680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_117
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3918
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b4f0e054512374da8532f2c27d87a2
+      internalID: -1287322711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_118
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3934
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd47696f3870ef4b9b0322ee7dfc91f
+      internalID: 1906159744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_119
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3938
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7de3e3b69631d4d953253ab5502224
+      internalID: -2114613747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_120
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3948
+        width: 129
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57913a77b3882f74dbf08b4f728659b9
+      internalID: 1570780116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_121
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3945
+        width: 124
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11248046a1b92bc4e9dbf70bb7689f10
+      internalID: -768472006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_122
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 3926
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701054df94183da44a6b058e8fbf8359
+      internalID: 382961294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_123
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3817
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed46b1c350453c4987a065c85667c1e
+      internalID: -1575488491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_124
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3825
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c33ca4d3ea1cbd419710baa8a0a2e59
+      internalID: 1349875891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_125
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3828
+        width: 142
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c758856c174146545ba1fc17990c0f31
+      internalID: -252381787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_126
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3824
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1672a41ef77d44babf994e77abf42c
+      internalID: 1064546238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_127
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3808
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7d7d600d43ca4faa7353faaaa6022
+      internalID: 684805252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_128
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3676
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0ddbfbd8deb9f4e9b0566e6b089b75
+      internalID: 1207008879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_129
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3678
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfb70c566bc7084b93dbba401ee2a07
+      internalID: -2023997507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_130
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3677
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95cbbfad181b024f97ed1dfdaf5b24a
+      internalID: 363528001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_131
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3678
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdade94186e86a4a904169a309a71fd
+      internalID: 40450985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_132
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 3678
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95a0020f23826c418f72bd2b1568145
+      internalID: 1899493832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_133
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3680
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446b5ae377d8f4e41b27752ed3da8a00
+      internalID: 1738853155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_134
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3550
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76963b18d4cd0943a153f7cb195c291
+      internalID: -415139370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_135
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3558
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ceb2f22b1e5949adeda9abc73a018
+      internalID: -1462274497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_136
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3566
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b52b82f07daee4cb07d09955e22e6d
+      internalID: -282233520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_137
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3562
+        width: 81
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f81fbd6af91e4f4eb1d27c35a71f4d9
+      internalID: -770182844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_138
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3433
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f6c7db6bf2ad540a8349080e37072c
+      internalID: -206992986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_139
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3427
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9cfc9296eb0d3409eb923d030421fa
+      internalID: 639687238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_140
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3428
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c1d01af44c7cd4b9daf2b42fe0b44f
+      internalID: 2074765849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_141
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3427
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070e21e248576614a9bf7c48e8481140
+      internalID: -934489176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_142
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3427
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dbfb0d3529a074f814287168c26316
+      internalID: -1795474582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_143
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3302
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71346332969f7314d86b52e4e1d3ea63
+      internalID: -909309195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_144
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3321
+        width: 129
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9d3e663f81ca94a94709ea2efa726d
+      internalID: 1429841885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_145
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3319
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e57eac60d2fe0948bb63d4da3c5d2e7
+      internalID: -669464801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrH 1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3139
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55332312c21fa9e4b96bebaaf390ff73
+      internalID: -1906085659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrH 2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3140
+        width: 65
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc2950334258eb44a0ea782b34f194c
+      internalID: 1336564287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrH 3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3160
+        width: 66
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5fd5a9fe3bff449b4ed692efe74403
+      internalID: -1183008973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrH 4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3182
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e42f2ff983b374985e83098aca327d
+      internalID: -2096955980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrH 5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3181
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ad983251d3c0842a8ed1576068ade1
+      internalID: -813683200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrH 6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3179
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd60d432c7644674e8912531671670fc
+      internalID: -1509093629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrH 7
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3166
+        width: 44
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644e5c01d52635f4facc7744226e162f
+      internalID: 1117811354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrH 8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 3153
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba1d693d2e189045a7cda2402028de0
+      internalID: 427672970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_154
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3011
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f5e0e19b4f84d4187aa14a82700dc9
+      internalID: -1179326276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_155
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3013
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62f3506198a7484a98599bbeaf708e2
+      internalID: -979171997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_156
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3011
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4337ed0baf9a499478e421100c5336dd
+      internalID: 720202765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_157
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3012
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe1c455cf43b1f4cbe895e0e82f4e20
+      internalID: 1052874565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_158
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3013
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e8678f4dea2e40aa72f17a1d45dff
+      internalID: 1198778177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_159
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3010
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb1ab8f2962e4a479f04129734a85bc
+      internalID: 1555969086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_160
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 3010
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d188691d8e91ab64fb05bd33884440b6
+      internalID: -520973838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_161
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3010
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bca18f8e1038b64a8cc38f90026e3e3
+      internalID: 1571310900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_162
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2881
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c01f1485c362f46850d1b0691399dc
+      internalID: -1753476661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_163
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2878
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bb8e48dd0bd324dbb6cbe8bff08df8
+      internalID: 1848415829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2872
+        width: 103
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d6d41471aefc843a0cf7be902cb905
+      internalID: 482014431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_165
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2876
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310403edfb3679946911d17e10bfbc27
+      internalID: 1500214439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_166
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2893
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84290de359f4e2d4cbd15bd5b5e6662f
+      internalID: -1460910022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_167
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2742
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773a350e355992d438b902643e80330d
+      internalID: 1622795612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_168
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2755
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73eebfa89a74a4eabb127ba4e77b7b
+      internalID: 753160321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_169
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2757
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe136f7fbebfdc46b834432d3892008
+      internalID: 1908099984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_170
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2759
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6f60f64b13ec4419fa7a4ab1793719
+      internalID: -2143888979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_171
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2762
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734b83790ee169a4093144e0466d1923
+      internalID: -699775657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_172
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2769
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98d37e98412c684faaf80ee4b31806a
+      internalID: -763767936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_173
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2624
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bc0bc1d4499d34699ff21ae3a5a27e
+      internalID: 1715882200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_174
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2623
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d757ec5d3ecac5e498a44ba1e0ba5da0
+      internalID: 1940645041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_175
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2624
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8d2f7188037f64bb103c10160f5af2
+      internalID: 1473284651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_176
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2626
+        width: 58
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34afa1aa9d9cd3641b823e7b71984a5a
+      internalID: -1998755012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_177
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2624
+        width: 69
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53be9e9131a8fff46bf869492fe972c7
+      internalID: -1433849746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_178
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2624
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2293dd0e5e687534a88932f60bdeefca
+      internalID: -1977312459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_179
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2624
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2493523a246f24a9655f247140f31e
+      internalID: 1349737462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_180
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2624
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acecad765181e4d4badf3d5cd4e5b23f
+      internalID: -1627307763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_181
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2517
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49415405dd8e8b94d91a652b093c42b2
+      internalID: 557050408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_182
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2524
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42384d2735cb4ae46b2d49f5b90b4d75
+      internalID: -32242670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_183
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2511
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7a1e5a6dc03c2429d20acb583b36b7
+      internalID: 1679312453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_184
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2518
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1b0b65f6e9874459e45257ec54a5f1
+      internalID: -1598223428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_185
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2518
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2717374f843f92e4cb5a1910580d72d6
+      internalID: 582339691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_186
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2506
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1336faee6e17af4418c3595a30fd86ce
+      internalID: -379112763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_187
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2501
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124d22d32a51b2c4886ebdf639f4f496
+      internalID: -658850084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_188
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2348
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf16d62ff03444283fed4017cba9f5
+      internalID: 1528919051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_189
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2350
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58653f9848f6c504bb6b55d1aef39320
+      internalID: 1038880792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_190
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2374
+        width: 71
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4742238460616ca49b644929f0fbfe3c
+      internalID: -1850558360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_191
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2375
+        width: 71
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8d85a1941e8ef45a48046decb2644a
+      internalID: -1014746684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_192
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2374
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb1e3dee0bc10b4588bbda402241dc0
+      internalID: -216829935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_193
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2369
+        width: 68
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baa3ee995ec55944ae22ff6662de9ea
+      internalID: 233868315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_194
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2349
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeee16fcc26f054b926f6a7c26d5c46
+      internalID: 1988649161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_195
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2349
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c8de0f1e8a92b42b8ebced92df44c9
+      internalID: 1528419989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_196
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2349
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961f0fd8343fe3045a4f520fb668a28c
+      internalID: 1996549396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_197
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2348
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5072f9daf540640b7a97b1bcf89062
+      internalID: -9846380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_198
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2218
+        width: 58
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26513f46e3510e468548b455dd862a3
+      internalID: -194268350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_199
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2216
+        width: 46
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e25d4c179256c84ca9c5c84854d4e3a
+      internalID: 641037549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_200
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2216
+        width: 46
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4de506ebaed3d248a46b0a415984d70
+      internalID: -1408617844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_201
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2216
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaae02cd089dbf43827547127cc0a8f
+      internalID: -867065799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_202
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2215
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47374f5f5857fc5468927b50e68d7a29
+      internalID: 1876710401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_203
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2216
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4326bbaec035244a72ee086f22fd1c
+      internalID: 18715029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_204
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2086
+        width: 55
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a3122193b18a1459325df0f31106ed
+      internalID: -1828767305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_205
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2088
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d289a3a61487eb84fbf872a7bf500df5
+      internalID: 1006597904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_206
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2086
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b910faffda256d479524192b3acc445
+      internalID: -103910433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_207
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2085
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdee3ebdc9360794685e8dfc6473b02d
+      internalID: -1546744469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitH 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1965
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d53be25b3933d4e935c6714cc22e16
+      internalID: 690382431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitH 2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1965
+        width: 59
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f8c898fcf515e4a8f296b720007840
+      internalID: -1758057768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitH 3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1964
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877d0c38501a97b449c11489ab6f92f4
+      internalID: -1634958413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitH 4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1965
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394525f9b492774cb507956c14e699e
+      internalID: -2037105717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitL 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1848
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd3bcd628410334b981c8117202edf2
+      internalID: 1871859614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitL 2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1849
+        width: 73
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828632b771fe7204a91ab7c09c882ee6
+      internalID: 1398448316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitM 1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1739
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c69b59b7a91d84d89e1556736717e0
+      internalID: -1770272625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitM 2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1739
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f3060d257493e4facd5e6416bf89e3
+      internalID: -2053934043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_216
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1615
+        width: 71
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619fa42f39955d14cb83c43c9d030baf
+      internalID: 1954064456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_217
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1615
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca2b604030f024daeabb182e9bdd0b
+      internalID: 1485184298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_218
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1616
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9daacf0e77fe548aed626f17100c76
+      internalID: 1741992814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_219
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1616
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89e1cf20a367ce49b980b0cedbc8e8e
+      internalID: 781734053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_220
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1504
+        width: 69
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2abd983c3c49464e94a7771b9b47deb
+      internalID: -1924433480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_221
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1504
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4cb347846c262428b384174bea78d5
+      internalID: 108238377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_222
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1404
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a70afc608f229a4ebb334d236d99c1e
+      internalID: -319764757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_223
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1403
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1c0a846a662648a0a10212f4f4df9
+      internalID: -1335358904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_224
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1298
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7421d5e60f56e14f8184a8080dd30f7
+      internalID: 1419358058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_225
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1300
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8190b677e1482154f85b9c59eb5b8574
+      internalID: -79613229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_226
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1300
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b50274d1a8efd745bdfb461b712d1e4
+      internalID: -1444721771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_227
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1299
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f740a57a389ed1648942baff2261bc9b
+      internalID: 93946410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_228
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1197
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b6774642829440aa29b9decbaf094
+      internalID: 1417371277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_229
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1197
+        width: 97
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b09219e520efa94c821c3f31ba2edf9
+      internalID: -632658936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_230
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1094
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57b15b3ac4e6147bd35f06000e2f10
+      internalID: 1888591583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_231
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1093
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af1cdaf0d80a294cb07cff02c25e49f
+      internalID: -1471812860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_232
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 987
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c894b9bae9dcf4b88475891730c5df
+      internalID: 175582613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_233
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 998
+        width: 101
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b599151dfd5c1b74a96e8346e30fce6f
+      internalID: 21095852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_234
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1000
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98686d58c9a8284f9111702c368f689
+      internalID: 1185650025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_235
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1021
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d82e1b999468640a534805896583b9
+      internalID: -1999156650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_236
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 886
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca60de497d85d94bbcc131e1f5e076b
+      internalID: 1788255670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_237
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 886
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e16626cb941c1479a8cd3956b054ce
+      internalID: -861792330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_238
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 885
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c3a68aa9c976746bedc062e8a5b8eb
+      internalID: -1598410890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_239
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 883
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fa3c611d79e294db5113c8cbbe9108
+      internalID: 1979977993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_240
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 788
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7569d58156d5294484d16eec4745b20
+      internalID: 1404802895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_241
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 780
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5238a0f45ae051f449e1a7bef22049ca
+      internalID: -36884017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall 1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 804
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3299e17dc397743b34ea01ccca32d0
+      internalID: 255433290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall 2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 804
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f65a3c47da26b547b647c349a4b2217
+      internalID: 2125235637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die 1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 662
+        width: 124
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea530da3e0b21c4ba2257453d435198
+      internalID: -1091202295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die 2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 656
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b60c9662ee8624aa5918741ec4b8d3
+      internalID: 1084867229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die 3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 650
+        width: 133
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201839425b70a0840bf5b3fa9a0c3039
+      internalID: 1048160414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakeUp 1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 657
+        width: 101
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4d31a840e76d5429f27708e3fd9fe5
+      internalID: -1626449404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakeUp 2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 657
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e35b0a7c7297f4b841b67a75412d10
+      internalID: 28571620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakeUp 3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 663
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c20c5c352b2a234e9769f0fd3cce923
+      internalID: 1702097910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakeUp 4
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 665
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea1794bb53bbec44a26a1adea92324a
+      internalID: -1823735172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_251
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 533
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90215ed267ff11459e831d859d5147a
+      internalID: -1062251433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_252
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 522
+        width: 118
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd5f99197ff1114d916dde90c6b40d9
+      internalID: 41552362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_253
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 520
+        width: 120
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa35bbb8e41cffa4387223b4e621930d
+      internalID: 878600108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_254
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 520
+        width: 120
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41f5e17ad648804985fbfd8c3fcf925
+      internalID: -97735648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_255
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 528
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61842f0232b7a29439d88625544e3dfb
+      internalID: 69306823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_256
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 528
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3baab311e39b954d8cd58f4a069da9a
+      internalID: -1738361416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_257
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 528
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c024d32f9d1fa4bbe7258aacb16fd8
+      internalID: -383995031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_258
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 530
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c9e1ed9db93f748bf80b3fa3ee40ac
+      internalID: -1147759031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_259
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 530
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa12fbe5efab02b4588517e3dd30346d
+      internalID: -612161464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_260
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 532
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d3dde87929a2e4a82e07f08637b9b1
+      internalID: 1576383537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win 1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 397
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4314cae18cd4b5440936745d89de8970
+      internalID: 235396196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win 2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 395
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7f7d24ff74a3f44b9606577a417655
+      internalID: -1274844778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win 3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 397
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b95548a1a82b9d4ca1bcaf2acb89c09
+      internalID: -1919934390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win 4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 396
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b8400fc6f02de449583ee181ca858c
+      internalID: 326509896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win 5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 395
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87736ab7f48ed0348bb7249772b753a3
+      internalID: 1599741840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win 6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 387
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a75a4e5261bfc44bb07c6431abe922
+      internalID: -99737022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win 7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 387
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d9ce000412a194cb87be7ede2764bb
+      internalID: -1436356224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_268
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 254
+        width: 53
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea1d628e46376418b116a7c6ee49a9
+      internalID: 269634926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_269
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 254
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60650840a44ab764996e461b7557a1ca
+      internalID: 1561521694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_270
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 254
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08e8951233d17842800197678bbe55e
+      internalID: 1195136569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_271
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 254
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68f55398f81c6742a960dc593197f44
+      internalID: 2016012583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_272
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 252
+        width: 66
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6690ba775f9b54e9515145ff94aee8
+      internalID: -1323216217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_273
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 253
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda40f6ba6cdfa14fbbecd8893d66157
+      internalID: 740415659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_274
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 254
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f453d45f8300bf48badbdbe9dec63a6
+      internalID: 232390230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_275
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 252
+        width: 53
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8007726ee7bc7204b91c7bed1cd20f18
+      internalID: -1351325824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenGohanSS_276
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 254
+        width: 57
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545c865af1097f449b82579156fda57f
+      internalID: -1761848106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRun 1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 131
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dfafb9cdc7d5a49beeae92f36f8157
+      internalID: -811417341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRun 2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 138
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b87b518a4a7e742926bb567952f837
+      internalID: 1902325837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackRun 1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff192077cb3d8284aa7b51d7e7d77c27
+      internalID: -401773461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackRun 2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 19
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a89c3ccfdf74e048a018a176126dcea
+      internalID: 206591331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BackRun 1: -401773461
+      BackRun 2: 206591331
+      CrGuard 1: -1780561198
+      CrGuard 2: -471985338
+      CrGuard 3: -1678284134
+      CrH 1: -1906085659
+      CrH 2: 1336564287
+      CrH 3: -1183008973
+      CrH 4: -2096955980
+      CrH 5: -813683200
+      CrH 6: -1509093629
+      CrH 7: 1117811354
+      CrH 8: 427672970
+      CrL 1: 1363210664
+      CrL 2: 2001679658
+      CrL 3: 945358065
+      CrM 1: -2030546860
+      CrM 2: -523815613
+      CrM 3: 1562491373
+      Crouch 1: 1182607858
+      Crouch 2: 2107397202
+      Crouch 3: -1392537034
+      Die 1: -1091202295
+      Die 2: 1084867229
+      Die 3: 1048160414
+      Fall 1: 255433290
+      Fall 2: 2125235637
+      ForwardRun 1: -811417341
+      ForwardRun 2: 1902325837
+      Guard 1: -1916818076
+      Guard 2: -1779168866
+      Guard 3: 195638683
+      H 1: 1646670240
+      H 2: 1308484205
+      H 3: -1962269169
+      H 4: 49698128
+      H 5: 1586475046
+      HitH 1: 690382431
+      HitH 2: -1758057768
+      HitH 3: -1634958413
+      HitH 4: -2037105717
+      HitL 1: 1871859614
+      HitL 2: 1398448316
+      HitM 1: -1770272625
+      HitM 2: -2053934043
+      Idle 1: 2089504615
+      Idle 2: 769639684
+      Idle 3: -1899586817
+      Idle 4: 1607153381
+      Idle 5: -2091068286
+      Jump 1: 569257891
+      Jump 2: 962457922
+      Jump 3: -724308709
+      L 1: -72158352
+      L 2: -85544047
+      L 3: -1925141170
+      L 4: -17155047
+      L 5: -993000551
+      Land 1: 633927817
+      Land 2: 1799893381
+      Land 3: -1594880796
+      Land 4: 273186038
+      M 1: 738649089
+      M 2: -446786735
+      M 3: -1642416703
+      M 4: -1620189070
+      M 5: 1684134440
+      M 6: 1165432183
+      S 1: 2030620418
+      S 2: 1729176574
+      S 3: 1142253515
+      S 4: 606964246
+      S 5: 707864680
+      TeenGohanSSButton: -1981748640
+      TeenGohanSS_0: 73518963
+      TeenGohanSS_1: -1198476967
+      TeenGohanSS_100: -722558312
+      TeenGohanSS_101: 2134855760
+      TeenGohanSS_102: -537161678
+      TeenGohanSS_103: -1982082893
+      TeenGohanSS_104: -331557179
+      TeenGohanSS_105: -793018813
+      TeenGohanSS_106: -790114059
+      TeenGohanSS_107: -1137460322
+      TeenGohanSS_108: 855160138
+      TeenGohanSS_109: -494665511
+      TeenGohanSS_110: 1130165913
+      TeenGohanSS_111: 847113078
+      TeenGohanSS_117: -1287322711
+      TeenGohanSS_118: 1906159744
+      TeenGohanSS_119: -2114613747
+      TeenGohanSS_120: 1570780116
+      TeenGohanSS_121: -768472006
+      TeenGohanSS_122: 382961294
+      TeenGohanSS_123: -1575488491
+      TeenGohanSS_124: 1349875891
+      TeenGohanSS_125: -252381787
+      TeenGohanSS_126: 1064546238
+      TeenGohanSS_127: 684805252
+      TeenGohanSS_128: 1207008879
+      TeenGohanSS_129: -2023997507
+      TeenGohanSS_130: 363528001
+      TeenGohanSS_131: 40450985
+      TeenGohanSS_132: 1899493832
+      TeenGohanSS_133: 1738853155
+      TeenGohanSS_134: -415139370
+      TeenGohanSS_135: -1462274497
+      TeenGohanSS_136: -282233520
+      TeenGohanSS_137: -770182844
+      TeenGohanSS_138: -206992986
+      TeenGohanSS_139: 639687238
+      TeenGohanSS_14: -916270967
+      TeenGohanSS_140: 2074765849
+      TeenGohanSS_141: -934489176
+      TeenGohanSS_142: -1795474582
+      TeenGohanSS_143: -909309195
+      TeenGohanSS_144: 1429841885
+      TeenGohanSS_145: -669464801
+      TeenGohanSS_15: 259338656
+      TeenGohanSS_154: -1179326276
+      TeenGohanSS_155: -979171997
+      TeenGohanSS_156: 720202765
+      TeenGohanSS_157: 1052874565
+      TeenGohanSS_158: 1198778177
+      TeenGohanSS_159: 1555969086
+      TeenGohanSS_16: -50166168
+      TeenGohanSS_160: -520973838
+      TeenGohanSS_161: 1571310900
+      TeenGohanSS_162: -1753476661
+      TeenGohanSS_163: 1848415829
+      TeenGohanSS_164: 482014431
+      TeenGohanSS_165: 1500214439
+      TeenGohanSS_166: -1460910022
+      TeenGohanSS_167: 1622795612
+      TeenGohanSS_168: 753160321
+      TeenGohanSS_169: 1908099984
+      TeenGohanSS_17: -1720726896
+      TeenGohanSS_170: -2143888979
+      TeenGohanSS_171: -699775657
+      TeenGohanSS_172: -763767936
+      TeenGohanSS_173: 1715882200
+      TeenGohanSS_174: 1940645041
+      TeenGohanSS_175: 1473284651
+      TeenGohanSS_176: -1998755012
+      TeenGohanSS_177: -1433849746
+      TeenGohanSS_178: -1977312459
+      TeenGohanSS_179: 1349737462
+      TeenGohanSS_180: -1627307763
+      TeenGohanSS_181: 557050408
+      TeenGohanSS_182: -32242670
+      TeenGohanSS_183: 1679312453
+      TeenGohanSS_184: -1598223428
+      TeenGohanSS_185: 582339691
+      TeenGohanSS_186: -379112763
+      TeenGohanSS_187: -658850084
+      TeenGohanSS_188: 1528919051
+      TeenGohanSS_189: 1038880792
+      TeenGohanSS_190: -1850558360
+      TeenGohanSS_191: -1014746684
+      TeenGohanSS_192: -216829935
+      TeenGohanSS_193: 233868315
+      TeenGohanSS_194: 1988649161
+      TeenGohanSS_195: 1528419989
+      TeenGohanSS_196: 1996549396
+      TeenGohanSS_197: -9846380
+      TeenGohanSS_198: -194268350
+      TeenGohanSS_199: 641037549
+      TeenGohanSS_2: 1232487946
+      TeenGohanSS_200: -1408617844
+      TeenGohanSS_201: -867065799
+      TeenGohanSS_202: 1876710401
+      TeenGohanSS_203: 18715029
+      TeenGohanSS_204: -1828767305
+      TeenGohanSS_205: 1006597904
+      TeenGohanSS_206: -103910433
+      TeenGohanSS_207: -1546744469
+      TeenGohanSS_216: 1954064456
+      TeenGohanSS_217: 1485184298
+      TeenGohanSS_218: 1741992814
+      TeenGohanSS_219: 781734053
+      TeenGohanSS_220: -1924433480
+      TeenGohanSS_221: 108238377
+      TeenGohanSS_222: -319764757
+      TeenGohanSS_223: -1335358904
+      TeenGohanSS_224: 1419358058
+      TeenGohanSS_225: -79613229
+      TeenGohanSS_226: -1444721771
+      TeenGohanSS_227: 93946410
+      TeenGohanSS_228: 1417371277
+      TeenGohanSS_229: -632658936
+      TeenGohanSS_230: 1888591583
+      TeenGohanSS_231: -1471812860
+      TeenGohanSS_232: 175582613
+      TeenGohanSS_233: 21095852
+      TeenGohanSS_234: 1185650025
+      TeenGohanSS_235: -1999156650
+      TeenGohanSS_236: 1788255670
+      TeenGohanSS_237: -861792330
+      TeenGohanSS_238: -1598410890
+      TeenGohanSS_239: 1979977993
+      TeenGohanSS_240: 1404802895
+      TeenGohanSS_241: -36884017
+      TeenGohanSS_251: -1062251433
+      TeenGohanSS_252: 41552362
+      TeenGohanSS_253: 878600108
+      TeenGohanSS_254: -97735648
+      TeenGohanSS_255: 69306823
+      TeenGohanSS_256: -1738361416
+      TeenGohanSS_257: -383995031
+      TeenGohanSS_258: -1147759031
+      TeenGohanSS_259: -612161464
+      TeenGohanSS_260: 1576383537
+      TeenGohanSS_268: 269634926
+      TeenGohanSS_269: 1561521694
+      TeenGohanSS_270: 1195136569
+      TeenGohanSS_271: 2016012583
+      TeenGohanSS_272: -1323216217
+      TeenGohanSS_273: 740415659
+      TeenGohanSS_274: 232390230
+      TeenGohanSS_275: -1351325824
+      TeenGohanSS_276: -1761848106
+      TeenGohanSS_3: -362226917
+      TeenGohanSS_30: 1864447578
+      TeenGohanSS_31: -2053817001
+      TeenGohanSS_32: -743934627
+      TeenGohanSS_4: 490537778
+      TeenGohanSS_43: -1029887680
+      TeenGohanSS_44: 1881043101
+      TeenGohanSS_45: -1926112235
+      TeenGohanSS_46: -1990922038
+      TeenGohanSS_47: 2119349112
+      TeenGohanSS_48: 961398402
+      TeenGohanSS_49: 116486534
+      TeenGohanSS_50: 520530982
+      TeenGohanSS_51: 947078969
+      TeenGohanSS_52: -405730008
+      TeenGohanSS_53: -878017435
+      TeenGohanSS_54: -1058110236
+      TeenGohanSS_55: -1608434347
+      TeenGohanSS_56: -416433839
+      TeenGohanSS_57: -312881425
+      TeenGohanSS_59: -776389574
+      TeenGohanSS_6: -980425894
+      TeenGohanSS_7: -1645209388
+      TeenGohanSS_8: 323747653
+      TeenGohanSS_81: 281374320
+      TeenGohanSS_82: 1202950384
+      TeenGohanSS_83: 1659008364
+      TeenGohanSS_84: 20599284
+      TeenGohanSS_85: -710489718
+      TeenGohanSS_86: 1856461890
+      TeenGohanSS_87: 520654300
+      TeenGohanSS_88: 739300630
+      TeenGohanSS_89: -512546957
+      TeenGohanSS_90: 454017733
+      TeenGohanSS_91: -788864190
+      TeenGohanSS_92: -494701168
+      TeenGohanSS_93: -1367290852
+      TeenGohanSS_94: -1024071260
+      TeenGohanSS_95: 510543277
+      TeenGohanSS_96: 2115883131
+      TeenGohanSS_97: -1618752628
+      TeenGohanSS_98: 309993354
+      TeenGohanSS_99: -1291831708
+      WakeUp 1: -1626449404
+      WakeUp 2: 28571620
+      WakeUp 3: 1702097910
+      WakeUp 4: -1823735172
+      Walk 1: 244226856
+      Walk 2: -459519951
+      Walk 3: 174559221
+      Walk 4: 1635698057
+      Walk 5: -1274511476
+      Walk 6: 695953954
+      Win 1: 235396196
+      Win 2: -1274844778
+      Win 3: -1919934390
+      Win 4: 326509896
+      Win 5: 1599741840
+      Win 6: -99737022
+      Win 7: -1436356224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
