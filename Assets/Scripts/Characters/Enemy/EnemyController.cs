@@ -29,8 +29,6 @@ public class EnemyController : MonoBehaviour
     public HealthBar healthBar;
     private bool isGettingHit;
 
-
-
     void Awake()
     {
         anim = GetComponent<Animator>();
